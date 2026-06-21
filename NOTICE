@@ -1,0 +1,25 @@
+TradingAgents-波波个股分析
+Copyright 2026 Fantasy-Bo
+
+Repository: https://github.com/Fantasy-Bo/Trading.git
+
+This product is a derivative work based on TradingAgents-Astock,
+originally developed by Simon (github.com/simonlin1212), licensed under
+the Apache License, Version 2.0.
+
+TradingAgents-Astock is itself a fork of TradingAgents, originally
+developed by TauricResearch (https://github.com/TauricResearch/TradingAgents),
+licensed under the Apache License, Version 2.0.
+
+Original TradingAgents-Astock work Copyright 2026 Simon
+Original TradingAgents work Copyright 2024-2025 TauricResearch
+
+Modifications in this derivative project include:
+- Project branding changed to TradingAgents-波波个股分析
+- Repository metadata changed to Fantasy-Bo/Trading
+- LLM model catalog updated to current latest-priority providers
+- Web model selector state handling fixed for provider-specific model lists
+- A-stock individual stock analysis workflow retained and adapted
+
+The original Apache 2.0 license text is included in LICENSE.
+See CHANGES_FROM_UPSTREAM.md for the inherited upstream modification history.
